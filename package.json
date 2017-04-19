@@ -27,13 +27,10 @@
   },
   "homepage": "https://github.com/wpannell/make-angular-1.x-component#readme",
   "engines": {
-    "node": "7.7.1"
+    "node": "7.9.0"
   },
   "dependencies": {
-    "commander": "2.9.0",
-    "fs-promise": "1.0.0",
-    "ramda": "0.22.1",
-    "rxjs": "5.0.3"
+    "ramda": "0.23.0"
   },
   "devDependencies": {
     "babel-cli": "6.18.0",
